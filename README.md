@@ -1,3 +1,3 @@
 # hello-world
 this is a repository I guess,
-this is just a sentence that added
+this is just a sentence that I added
